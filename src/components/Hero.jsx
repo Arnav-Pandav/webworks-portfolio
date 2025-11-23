@@ -86,7 +86,6 @@ export default function Hero() {
         >
           Download Resume
         </motion.a>
-
       </div>
     </div>
   );
