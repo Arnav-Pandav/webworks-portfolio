@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth theme transitions */
+:root { color-scheme: light dark; }
+* { @apply transition-colors duration-300; }
